@@ -1,12 +1,5 @@
 # Portfolio Website
-
-This is a simple portfolio website to showcase your skills, projects, and achievements.
-
-## How to Use
-
-1. Upload these files to a GitHub repository.
-2. Enable GitHub Pages in repository settings.
-3. Your site will be live at `https://vedantchhalotre.github.io/Portfolio/#contact`.
+ `https://vedantchhalotre.github.io/Portfolio/#contact`.
 
 ## Customize
 
